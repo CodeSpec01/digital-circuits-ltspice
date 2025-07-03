@@ -31,8 +31,11 @@ This project contains a collection of digital circuit simulations created and te
 - `SR Flip Flop.jpg` — SR flip-flop
 
 Example - 
-Output1[https://github.com/CodeSpec01/digital-circuits-ltspice/blob/main/outputs/CMOS%20Gates.jpg]
-Output2[https://github.com/CodeSpec01/digital-circuits-ltspice/blob/main/outputs/Demultiplexer.jpg]
+
+
+![Output1](https://github.com/user-attachments/assets/eecf8072-0c44-4340-8b9d-d507027abd24)
+![Output2](https://github.com/user-attachments/assets/9425cc0d-c99f-4c5d-b65c-1adba089c9f9)
+
 
 ## How to Use
 
