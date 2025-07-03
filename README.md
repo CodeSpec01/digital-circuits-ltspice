@@ -30,6 +30,10 @@ This project contains a collection of digital circuit simulations created and te
 - `SR Latch.jpg` — SR latch
 - `SR Flip Flop.jpg` — SR flip-flop
 
+Example - 
+Output1[https://github.com/CodeSpec01/digital-circuits-ltspice/blob/main/outputs/CMOS%20Gates.jpg]
+Output2[https://github.com/CodeSpec01/digital-circuits-ltspice/blob/main/outputs/Demultiplexer.jpg]
+
 ## How to Use
 
 1. **Open LTSpice** (IV, XVII, or later).
